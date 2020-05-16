@@ -1,6 +1,6 @@
 {
   "name": "arbitrary-unused-port",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "Get an arbitrary unused port in node.js synchronously.",
   "license": "BSD-2-Clause",
   "homepage": "https://github.com/ntkme/arbitrary-unused-port#readme",
