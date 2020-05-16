@@ -2,7 +2,8 @@
 
 Get an arbitrary unused port in node.js synchronously.
 
-[![CircleCI](https://img.shields.io/circleci/project/github/ntkme/arbitrary-unused-port.svg)](https://circleci.com/gh/ntkme/arbitrary-unused-port)
+![build](https://github.com/ntkme/arbitrary-unused-port/workflows/build/badge.svg)
+![npm](https://img.shields.io/npm/v/arbitrary-unused-port)
 
 ### Usage
 
